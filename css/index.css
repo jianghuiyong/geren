@@ -1,0 +1,113 @@
+.text-white{
+color:#fff;
+}
+.navbar-static-top a{
+color:white;
+}
+.navbar-fixed-top a{
+color:#000;
+}
+.navbar a:hover{
+color: #337ab7;
+}
+.navbar-fixed-top .nav>li>a:hover{
+color:white;
+background-color: #000;
+}
+.navbar-box{
+width:100%;
+position:absolute;
+}
+.navbar{
+border-bottom:1px solid white;
+}
+header .banner {
+margin: 0;
+height: 100vh;
+width: 100%;
+overflow: hidden;
+position: relative;
+}
+header .banner li {
+position: absolute;
+left: 0;
+top: 0;
+width: 100%;
+height: 100vh;
+background-position: center;
+background-size: cover;
+overflow: hidden;
+display: none;
+}
+header .banner .masking{
+position:absolute;
+height: 100vh;
+width: 100%;
+background-color: #000;
+opacity: 0.5;
+z-index: 1;
+}
+header .banner .bannerText {
+position: absolute;
+top: 35%;
+left: 0;
+right: 0;
+color: #fff;
+z-index: 2;
+}
+header .banner .bannerText .iconfont{
+	color:#fff;
+font-size: 40px;
+}
+header .banner .bannerText .iconfont:hover{
+	color:#337ab7;
+}
+
+header .banner .bannerText a:hover{
+text-decoration: none;
+}
+h2{
+text-align:center;
+}
+.about,.project,.contact{
+	padding-top: 10px;
+}
+.skill{
+	padding-bottom:20px;
+}
+.project{
+padding-bottom: 20px;
+background: #f8f8f8;
+}
+.project .img-box{
+overflow:hidden;
+height:300px;
+margin-bottom: 10px;
+}
+.project .col-md-4{
+	margin-bottom:10px;
+}
+.project .img-last img{
+	float:left;
+	width:300px;
+}
+.project a{
+color:#000;
+}
+.more{
+width: 150px;
+height: 40px;
+text-align: center;
+color: rgb(51, 51, 51);
+margin: 20px auto;
+border: 2px solid red;
+border-image: initial;
+border-radius: 40px;
+font: bold 18px/40px 微软雅黑;
+}
+.progress{
+height:10px;
+}
+.contact .row{
+margin:50px 0;
+}
