@@ -5,3 +5,4 @@ https://github.com/jianghuiyong/page<br/>
 https://github.com/jianghuiyong/360rotat<br/>
 https://github.com/jianghuiyong/caigou<br/>
 https://github.com/jianghuiyong/fashion<br/>
+https://github.com/jianghuiyong/jiahui<br/>
