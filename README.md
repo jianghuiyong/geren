@@ -1,4 +1,4 @@
-个人简历
+个人简历下面的是做过的小功能<br/>
 https://github.com/jianghuiyong/animation<br/>
 https://github.com/jianghuiyong/login<br/>
 https://github.com/jianghuiyong/page<br/>
